@@ -1,6 +1,6 @@
 = Double Web
 
-Framework to build double Web server.
+Development is now happening at http://github.com/moro/ww.
 
 == Description
 
